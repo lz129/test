@@ -1,0 +1,3 @@
+[submodule "submodules/lua-mosquitto"]
+	path = submodules/lua-mosquitto
+	url = https://github.com/lz129/lua-mosquitto.git
